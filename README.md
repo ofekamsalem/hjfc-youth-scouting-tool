@@ -26,12 +26,11 @@ Players are selected if they meet each one of the following conditions:
    - Players ranked 12th to 18th in the squad based on minutes played in the season.
 
 2. **Percentage of Minutes Played:**
-   - Players who played between 25% and 50% of:
-     - The minutes played by the player with the most minutes
-
+   - Players who played 25–50% of the total minutes of the player with the maximum minutes
+     
 3. **Participation in Last 3 Matches:**
    - Players who:
-     - Were in the squad list for at least one of the last three matches,
-     - Did not start in any of these matches (no appearances in starting lineup),
+     - Were in the squad list for at least one of the last three matches.
+     - Did not start in any of these matches.
      - Played no more than 90 minutes in total across these matches.
 
